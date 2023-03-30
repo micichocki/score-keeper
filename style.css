@@ -1,0 +1,33 @@
+body{margin:0}
+p.card-text{
+    text-align: center;
+}
+
+div.buttons{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5{
+    text-align:center;
+}
+
+.card{
+    max-width: 80%;
+    margin:auto;
+}
+.card-img-top{
+    height: 60%;
+    max-width: 60%;
+}
+.card-text{
+    font-size:1.4em;
+}
+.winner-color{
+    color:green;
+}
+.loser-color{
+    color:red;
+}
+
